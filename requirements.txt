@@ -1,0 +1,14 @@
+jupyter
+pandas
+qdrant_client~=1.3.0
+pyarrow
+transformers
+Pillow
+tensorflow
+torch
+matplotlib
+scikit-learn
+qdrant-client
+sentence-transformers
+streamlit
+wordcloud
